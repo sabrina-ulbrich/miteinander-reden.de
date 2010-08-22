@@ -1,0 +1,55 @@
+---
+  body: |
+    <!-- <h2>Wie genau kennen Sie sich und Ihren Partner?<\h2> -->
+    <p>Mit den beiden folgenden Fragebögen können Sie testen wie genau Sie sich und Ihren Partner kennen. Beantworten Sie und Ihr Partner beide Fragebögen unabhängig voneinander. Tauschen Sie danach Ihre Antworten aus. Das kann sowohl amüsant als auch erhellend sein!</p>
+    <p>Wenn es für Sie eindeutige Antworten gibt, dann beantworten Sie diese auch entsprechend. Wenn es für Sie mehrere nahe beieinander liegende Antwortmöglichkeiten gibt, dann führen Sie Ihre Antwort näher aus.</p>
+
+    <a name="Persönlicher Fragebogen"></a>
+    <h3>Persönlicher Fragebogen</h3>
+    <ul>
+      <li>Was ist für Sie das größte Unglück?</li>
+      <li>Wie würden Sie Ihre ideale Lebensform beschreiben?</li>
+      <li>Wo möchten Sie am liebsten leben?</li>
+      <li>Welche Fehler entschuldigen Sie am ehesten?</li>
+      <li>Wer ist Ihr(e) liebste(r) Held(in) in der Literatur oder im Film?</li>
+      <li>Welchen Menschen betrachten Sie als Ihr Vorbild?</li>
+      <li>Welche Eigenschaften schätzen Sie bei einer Frau am meisten?</li>
+      <li>Welche Eigenschaften schätzen Sie bei einem Mann am meisten?</li>
+      <li>Was ist der höchste Wert in einer Beziehung für Sie?</li>
+      <li>Welche Tugend schätzen Sie am höchsten?</li>
+      <li>Was verabscheuen Sie am meisten?</li>
+      <li>Was ist Ihre Lieblingsbeschäftigung?</li>
+      <li>Was würden Sie antworten, wenn Sie jemand nach dem Leitspruch Ihres Lebens fragen würde?</li>
+      <li>Wie würden Sie Sich verhalten, wenn Ihnen ein Freund etwas für Sie häßliches oder nutzloses schenken würde?</li>
+      <li>Was halten Sie für Ihren größten Fehler?</li>
+      <li>Was halten Sie für Ihre Stärken?</li>
+      <li>Was essen Sie am liebsten?</li>
+      <li>Welches ist Ihre Lieblingsfarbe?</li>
+      <li>Welches ist Ihr Lieblingstier?</li>
+      <li>Wofür würden Sie 10.000 DM ausgeben?</li>
+    </ul>
+
+    <a name="Partner Fragebogen"></a>
+    <h3>Partner Fragebogen</h3>
+    <ul>
+      <li>Was ist für Ihren Partner das größte Unglück?</li>
+      <li>Wie würden Sie die ideale Lebensform Ihres Partners beschreiben?</li>
+      <li>Wo möchte Ihr Partner am liebsten leben?</li>
+      <li>Welche Fehler entschuldigt Ihr Partner am ehesten?</li>
+      <li>Wer ist der/die liebste(r) Held(in) Ihres Partners in der Literatur oder im Film?</li>
+      <li>Welchen Menschen betrachtet Ihr Partner als sein Vorbild?</li>
+      <li>Welche Eigenschaften schätzt Ihr Partner bei einer Frau am meisten?</li>
+      <li>Welche Eigenschaften schätzt Ihr Partner bei einem Mann am meisten?</li>
+      <li>Was ist der höchste Wert in einer Beziehung für Ihren Partner?</li>
+      <li>Welche Tugend schätzt Ihr Partner am höchsten?	</li>
+      <li>Was verabscheut Ihr Partner am meisten?</li>
+      <li>Was ist die Lieblingsbeschäftigung Ihres Partners?</li>
+      <li>Was würde Ihr Partner antworten, wenn ihn jemand nach dem Leitspruch seines Lebens fragen würde?</li>
+      <li>Wie würde sich Ihr Partner verhalten, wenn ihm ein Freund etwas für ihn häßliches oder nutzloses schenken würde?</li>
+      <li>Was hält Ihr Partner für seinen größten Fehler?</li>
+      <li>Was hält Ihr Partner für Ihre Stärken?</li>
+      <li>Was ißt Ihr Partner am liebsten?</li>
+      <li>Welches ist die Lieblingsfarbe Ihres Partners?</li>
+      <li>Welches ist das Lieblingstier Ihres Partners?</li>
+      <li>Wofür würde Ihr Partner 10.000 DM ausgeben?</li>
+    </ul>

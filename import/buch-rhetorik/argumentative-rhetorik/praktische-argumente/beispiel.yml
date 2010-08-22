@@ -1,0 +1,77 @@
+---
+  body: |
+    <!-- <h2>Beispiel<\h2> -->
+    <p><strong>Lernziel:</strong> Hier geht es darum, folgende Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben:</p>
+    <ul>
+      <li>Die Bedeutung von Beispielen innerhalb einer argumentativen Rhetorik kann erläutert werden. Argumente, die auf Beispielen gründen, sind bekannt. <em>(Kenntnis)</em></li>
+      <li>Aus Beispielen abgeleitete Argumentformen können gebildet werden. <em>(Fertigkeit)</em></li>
+      <li>Innerhalb von Reden oder Diskussionen werden Beispiele und daraus abgeleitete Argumente verwendet. Ebenso können innerhalb von Diskussionen Gegenargumente wirkungsvoll vorgebracht werden. <em>(Fähigkeit)</em></li>
+    </ul>
+
+    <a name="Beispiel"></a>
+    <h3>Beispiel</h3>
+    <p>Ein Beispiel allein kann zwar nichts begründen, vielmehr dient es der besseren Anschauung, jedoch gibt es einige Spezialfälle, die für unser Thema relevant sind.</p>
+    <p>Eine Geschichte, die davon erzählt, wie ein Mann durch Arbeit und Begabung seinen sozialen Aufstieg erreicht hat, bietet eine Lektion in Optimismus und Vertrauen für eine Gesellschaft, die einen solchen Erfolg möglich macht. Das klassische Beispiel ist die Geschichte vom Werdegang des Tellerwäschers zum Millionär.</p>
+
+    <a name="Induktion"></a>
+    <h3>Induktion</h3>
+    <p>Was uns hier interessiert, ist die Regel, die jedem Beispiel zugrunde liegt und die es möglich macht, von einem Beispiel auf andere Situationen zu schließen. Wird aus einem Einzelfall eine allgemeingültige Regel abgeleitet, so bezeichnen wir das als einen<em> induktiven Schluß</em>, bzw.<em> Induktion</em>. Die einfachste Induktion folgert von dem Umstand, daß z. B. A und B miteinander verbunden sind (sei es einmal oder öfter), daß sie stets miteinander auftreten oder auftreten werden. Bei dieser Art der Folgerung können Sie jedoch nicht von einer absoluten Gewißheit ausgehen, sondern nur von Wahrscheinlichkeiten. Die Wahrscheinlichkeit wächst mit der Zahl der überprüften Einzelfälle.</p>
+    <p>Ein Beispiel für einen Induktionsschluß ist folgendes:</p>
+    <p>Gold, Silber und Eisen sind Metalle.</p>
+    <p>Gold, Silber und Eisen sind schwerer als Wasser.</p>
+    <p>Also sind alle Metalle schwerer als Wasser.</p>
+    <p>Dieser Schluß wurde so lange für wahr gehalten, bis das Kalium entdeckt wurde.</p>
+
+    <a name="Wissenschaft und Alltag"></a>
+    <h3>Wissenschaft und Alltag</h3>
+    <p>Naturwissenschaftler gehen häufig induktiv vor, indem sie aufgrund von Beobachtungen Vermutungen oder Theorien aufstellen, die sie dann mit Experimenten zu verifizieren suchen. Die Gefahr besteht dabei darin, von zu wenigen oder zu ungenauen Beobachtungen auf allgemeine Regeln zu schließen, was im alltäglichen Denken häufiger der Fall ist.</p>
+    <p><em>"Die Empirie kommt nicht über das Besondere hinaus, sie schreitet immer nur von Erfahrungen zu Erfahrungen, von Versuchen zu neuen Versuchen. Die Induktion dagegen zieht aus den Versuchen und Erfahrungen die Ursachen und allgemeinen Sätze heraus und leitet dann wieder neue Erfahrungen und Versuche aus diesen Ursachen und allgemeinen Sätzen oder Prinzipien ab."</em> (Francis Bacon "Novum organum")</p>
+
+    <a name="Argumentation durch Beispiel"></a>
+    <h3>Argumentation durch Beispiel</h3>
+    <p>Argumentation durch Beispiel = Argumentation, in welcher durch ein Beispiel vom Einzelfall her nach dem zugrundeliegenden Gesetz oder der Struktur gefragt wird.</p>
+    <p>Mit Beispielen lassen sich verschiedene Wirkungen erzielen:</p>
+    <ul>
+      <li>An Beispielen läßt sich die Reichweite der Regel, der Grad der dem besonderen Fall angemessenen Verallgemeinerung diskutieren, nicht jedoch das Prinzip der Verallgemeinerung selbst.</li>
+      <li>Beispiele stützen Vorhersagen oder Regeln.</li>
+      <li>Wenn die Beschreibung <em>einer</em> Situation den Zweifel über ihre Aussagekraft vielleicht noch nicht aufhebt, so wird es die Anführung <em>einer Anzahl</em> von gleichartigen Beispielen bestimmt tun.</li>
+    </ul>
+    <p>Die Argumentation mittels Beispiel kann auf zwei Übergänge zielen:</p>
+    <ul>
+      <li>von einem Beispiel zu einer Regel <em>(Argument der Verallgemeinerung)</em></li>
+      <li>von einem Beispiel zu einem anderen Einzelfall <em>(Technik des Präzedenzfalles)</em></li>
+    </ul>
+    <p>Das Argument mittels Beispiel können Sie bestreiten, nicht jedoch den widerlegenden Fall, dessen Unbestreitbarkeit die Regel, die er widerlegt, zu verwerfen oder zumindest abzuändern zwingt.</p>
+    <p>Die Sprache läßt es als ganz natürlich erscheinen, gleich beschriebene Situationen einer gleichen Regel zu unterwerfen. Gleich beschriebene Situationen unterscheiden zu wollen, bedarf einer Rechtfertigung.</p>
+
+    <a name="Technik des Präzedenzfalles"></a>
+    <h3>Technik des Präzedenzfalles</h3>
+    <p>Eine spezielle Form des Beispiels ist die <em>Technik des Präzedenzfalles</em>. Ein Präzedenzfall ist ein Fall, der für spätere Fälle beispielgebend ist oder sein kann.</p>
+    <p>Wenn vor Gericht Handlungen beurteilt werden, dann wird u.a. auch auf vergangene Urteile zurückgegriffen, die dann als Präzedenzfall dienen. Mit der Anführung des Präzedenzfalles wird eine gleiche Verfahrensweise gerechtfertigt.</p>
+    <p>Technik des Präzedenzfalles = Technik, welche einen Fall als Beispiel für weitere gleiche oder ähnliche Fälle darstellt und auf gleiche oder ähnliche Reaktionen orientiert, wie sie in diesem Beispielfall vorlagen.</p>
+    <p>Folgende Wirkungen ergeben sich bei der Verwendung eines Präzedenzfalles:</p>
+    <ul>
+      <li><em>Verallgemeinerung des Übergangs:</em> Mittels dieser Technik läßt sich jede Entscheidung als ein künftig den von A nach B erleichternden Übergang auffassen.</li>
+      <li>
+        <em>Diskussion:</em> Wird die Technik des Präzedenzfalles oder das Verfahren nach Etappen angewendet, können folgende Punkte strittig werden:
+        <ul>
+          <li>Reichweite der Entscheidung</li>
+          <li>Möglichkeit, auf einer bestimmten Stufe innezuhalten</li>
+          <li>Maßnahme als eine in ihrer Art einmalige Entwicklung</li>
+        </ul>
+      </li>
+    </ul>
+  
+    <a name="Argument der Verallgemeinerung"></a>
+    <h3>Argument der Verallgemeinerung</h3>
+    <p>Kommen wir im folgenden zu einer weiteren Argumentform, die aus einem Beispiel abgeleitet werden kann. Wenn von einem Beispiel auf eine allgemeingültige Regel übergegangen werden soll, dann findet das <em>Argument der Verallgemeinerung</em> Verwendung.</p>
+    <p>Das Argument der Verallgemeinerung lautet:</p>
+    <p>Wenn alle x täten, dann wären die Folgen nicht wünschenswert. Da - unter gleichen Umständen - nicht alle das Recht haben können, x zu tun, hat keiner das Recht, x zu tun.</p>
+    <p>Das Argument der Verallgemeinerung ist ungültig, wenn es umkehrbar ist, d. h. wenn weder wünschenswert wäre, daß alle x tun, noch daß keiner x tut.</p>
+    <p>Beispiel: Wenn alle Rhetorik nur dafür verwenden würden, um die eigene Meinung durchzusetzen und andere auszutricksen, dann wären die Folgen nicht wünschenswert. Denn dann würde keiner mehr dem anderen zuhören. Jeder wäre nur darauf bedacht, die anderen zu überreden und zu manipulieren. Da also nicht alle das Recht haben können, andere zu manipulieren, hat keiner das Recht dazu.</p>
+    <p>Ungültig ist das Argument der Verallgemeinerung z. B. in dem Falle der Berufswahl. Denn es ist weder wünschenswert, daß alle den Beruf des Bäckers ausüben, noch daß es keiner tut.</p>
+    <p>Wirkungen des Arguments der Verallgemeinerung</p>
+    <ul>
+      <li>Mit Hilfe des Arguments der Verallgemeinerung läßt sich prüfen, ob eine Handlung unter moralischen Gesichtspunkten verboten, geboten oder erlaubt ist.</li>
+      <li>Verallgemeinerbare Interessen, also diejenigen, welche für alle Menschen gelten sollten, lassen sich so von partikularen Interessen, diejenigen, die nicht für alle gelten, unterscheiden.</li>
+    </ul>

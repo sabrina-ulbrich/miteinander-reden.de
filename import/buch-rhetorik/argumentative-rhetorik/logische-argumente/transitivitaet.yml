@@ -1,0 +1,81 @@
+---
+  body: |
+    <!-- <h2>Argumente der Transitivität, Einschließung und Aufteilung<\h2> -->
+    <p><strong>Lernziel:</strong> Hier geht es darum, folgende Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben:</p>
+    <ul>
+      <li>Die Bedeutung von "Transitivität" kann erläutert werden. Die Argumente, die darauf beruhen, sind bekannt. <em>(Kenntnis)</em></li>
+      <li>Beispiele zu diesen Argumentformen (Argument und Gegenargument) können gebildet werden. <em>(Fertigkeit)</em></li>
+      <li>Innerhalb von Reden oder Diskussionen werden diese Argumente verwendet. Ebenso können innerhalb von Diskussionen Gegenargumente wirkungsvoll vorgebracht werden. <em>(Fähigkeit)</em></li>
+    </ul>
+
+    <a name="Transitivität"></a>
+    <h3>Transitivität</h3>
+    <p>Der Begriff "transitiv" (lat. "übergehend") entstammt der formalen Logik und bezeichnet die Eigenschaft einer Relation. Eine Relation ist dann transitiv, wenn die Relation, die zwischen (a und b) und (b und c) besteht, auch auf (a und c) übergeht.</p>
+    <p>Ein Beispiel für eine Übertragung der Relation, die in jedem Falle wahr ist, ist folgende: Wenn Josef der Vorfahre von Heinrich ist und Heinrich der Vorfahre von Jens, dann ist Heinrich der Vorfahre von Jens. Weitere Übergänge, die in jedem Falle zutreffen, können Sie mit folgenden Relationen bilden: <em>gleich wie, enthalten in, größer als</em>.</p>
+    <p>Dagegen ist die Übertragung der Relation in folgendem Beispiel nicht mehr ganz so eindeutig: Die Freunde meiner Freunde sind auch meine Freunde.</p>
+    <p>Transitivität der Relation = Das Übergehen der Geltung einer Relation für ein Verhältnis auf ein anderes.</p>
+    <p>Eine Argumentform, die auf der Transitivität beruht, ist der <em>Kettenschluß</em>, wozu das folgende Zitat ein Beispiel ist.</p>
+    <p><em>"Da die Alten die Intelligenz ihre erzieherische Wirkung im ganzen Lande ausüben lassen wollten, brachten sie zuerst ihr Reich in Ordnung; da sie in ihr Reich Ordnung bringen wollten, regelten sie zuerst ihr Familienleben; da sie ihr Familienleben regeln wollten, bildeten sie zuerst ihre eigene Person; da sie ihre eigene Person bilden wollten, läuterten sie zuerst ihr eigenes Herz; da sie ihr Herz läutern wollten, strebten sie nach Wahrhaftigkeit ihrer Gedanken; da sie nach Wahrhaftigkeit ihrer Gedanken strebten, ließen sie sich vor allem die vollkommene Wissenschaft angelegen sein; diese vollkommene Wissenschaft besteht darin, Sinn für die Wirklichkeit zu entwickeln."</em> (aus dem Ta-hsüeh)</p>
+
+    <a name="Kettenschluß"></a>
+    <h3>Kettenschluß</h3>
+    <p>Kettenschluß = Schluß, in dem das Satzglied im zweiten Teil einer Aussage im Anfang der nächsten wieder aufgenommen wird. (Die formale Schreibweise ist: weil a also b, weil b also c, weil c also d, ...)</p>
+    <p>In dem Beispiel erfolgt der Übergang von der Folge zur Bedingung. Während bei formalen Schlüssen die Übergänge zwingend sind, können Sie in der alltäglichen Argumentation allein durch diese<em> Form</em> eine überredende Wirkung erzielen.</p>
+    <p>Ein weiteres Argument, welches mit Übergängen von einer Aussage zur nächsten zu tun hat, ist das <em>Verfahren nach Etappen</em>. Folgende Beispiele sollen diesen Argumenttyp veranschaulichen.</p>
+
+    <a name="Verfahren nach Etappen"></a>
+    <h3>Verfahren nach Etappen</h3>
+    <p>"Wenn Sie A akzeptieren, dann müssen Sie auch B zustimmen, was zu C führt und letztlich D impliziert."</p>
+    <p>A: Die hohen Ozonwerte im Sommer wirken gesundheitsschädigend.</p>
+    <p>B: Autoabgase erhöhen den Ozonwert und verstärken daher die gesundheitsschädigende Wirkung.</p>
+    <p>C: Wenn Sie Ihr Auto zu Hause lassen, tragen Sie zur Schonung der Luft und der Gesundheit aller Menschen bei.</p>
+    <p>D: Sie sollten Ihr Auto zu Hause lassen.</p>
+    <p>Statt den Zuhörer, nachdem er A akzeptiert hat, gleich mit D zu konfrontieren, gehen Sie Schritt für Schritt. Die kleinen, nachvollziehbaren "Häppchen" erleichtern die Übergänge. Dieses Beispiel ist wegen der Anschaulichkeit stark verkürzt. Im Alltag bieten sich meist noch kleinere Schritte oder ergänzende Begründungen für die einzelnen Schritte an.</p>
+    <p>Verfahren nach Etappen = Verfahren, welches den Gesprächspartner, statt von A nach D, zuerst von A nach B, von dort nach C und endlich nach D führt.</p>
+    <p>Mit dem Verfahren nach Etappen lassen sich folgende Wirkungen erzielen:</p>
+    <p><em>Leichterer Übergang:</em> Wenn Ihre vertretenen Thesen zu weit von denen der Zuhörer entfernt sind, als daß Sie diese in einem Schritt zur Übereinstimmung bringen können, dann ist es angezeigt, die Schwierigkeiten zu unterteilen und das Ergebnis schrittweise zu erreichen.</p>
+    <p><em>Gegenüberstellung von quantitativem und qualitativem Wandel:</em> Jede einzelne Etappe ist quantitativ, das Ergebnis kann jedoch in einem qualitativen Wandel bestehen, einer Veränderung des Wesens.</p>
+    <p>Das Gegenargument zum Verfahren nach Etappen ist das <em>Argument der Richtung</em>. Dazu ein Beispiel.</p>
+    <p>Herr P <em>(wendet das Verfahren der Etappen an)</em></p>
+    <p>"Die hohen Ozonwerte im Sommer wirken gesundheitsschädlich."</p>
+    <p>Herr C <em>(wendet das Argument der Richtung an)</em></p>
+    <p>"Es ist gar nicht bewiesen, daß die Ozonwerte gesundheitsschädlich sind. Denn es ist strittig, ob die gemessenen Werte seit Beginn der Messungen vor etwa 20 Jahren überhaupt gestiegen sind."</p>
+    <p>Herr P muß zuerst die erste Behauptung begründen und Herrn C davon überzeugen. Wenn Herr C erst den letzten Übergang bestritten hätte, dann hätte er einen sehr viel schwereren Stand.</p>
+
+    <a name="Argument der Richtung"></a>
+    <h3>Argument der Richtung</h3>
+    <p>Argument der Richtung = Gegenargument zum Verfahren nach Etappen, welches sich, den weiteren Verlauf vorwegnehmend, dem ersten Schritt entgegenstellt.</p>
+    <p>Das Argument der Richtung können Sie anwenden, um zu vermeiden, daß Sie auf eine "Rutschbahn" geführt werden, die, einmal beschritten, kein Innehalten mehr erlaubt und von einem Positionsverlust zum anderen letztlich zur vollständigen Niederlage führt.</p>
+    <p>Ein anderes Gegenargument zu dem Verfahren nach Etappen ist der <em>Dilatorische Sophismus</em>. "Dilatorisch" bedeutet soviel wie "aufschiebend" (Dilation = Aufschub, Verzögerung). Es ist eine schwächere Variante als das Richtungsargument. Sie sollten es verwenden, wenn Ihre Position so unsicher ist, daß klar ist, daß Sie diese nicht mehr halten können.</p>
+    <p>In dem folgenden Beispiel bestreitet Herr C nicht die Behauptung von Herrn P, sondern nimmt sie an und zeigt Folgen auf, d. h. Übergänge zu anderen Behauptungen, die Herr P nicht unbedingt intendiert hat. Damit hat Herr C eine neue Behauptung in den Raum gestellt, auf die Herr P erstmal etwas erwidern muß. Um den Dilatorischen Sophismus anwenden zu können, müssen Sie zu einem gewissen Grad vorhersehen, worauf der andere hinaus will, um gleich zu Beginn eine andere Richtung einzuschlagen.</p>
+    <p>Herr P <em>(wendet das Verfahren der Etappen an)</em></p>
+    <p>"Die hohen Ozonwerte im Sommer wirken gesundheitsschädlich."</p>
+    <p>Herr C<em>	(wendet den Dilatorischen Sophismus an)</em></p>
+    <p>"Ja, und die Kraftwerke steuern den größten Anteil dazu bei. Man sollte den Preis für Elektrizität erhöhen, so daß es für eine Firma billiger ist, Menschen einzustellen als Maschinen die Arbeit machen zu lassen. Damit schlägt man zwei Fliegen mit einer Klappe: Die Arbeitslosigkeit sinkt und die Ozonwerte ebenfalls."</p>
+
+    <a name="Dilatorischer Sophismus"></a>
+    <h3>Dilatorischer Sophismus</h3>
+    <p>Dilatorischer Sophismus = Verfahren, welches (als Kompromiß) den Übergang von A nach B vorschlägt, nachdem der Gegner den Übergang von A nach D erreichen will.</p>
+    <p>Die Wirkungen des dilatorischen Sophismus sind die folgenden:</p>
+    <ul>
+      <li><em>Abwerfen von Ballast:</em> Notwendige Opfer lassen sich nicht umgehen, wenn Sie sich nicht in einer Position der Stärke befinden.</li>
+      <li>Es besteht die Möglichkeit, daß Sie nicht zu einem weiteren Schritt gezwungen sind oder zumindest Zeit gewinnen, bevor Sie den unerwünschten Übergang akzeptieren müssen.</li>
+      <li>Von einem Gegner, der alles auf einmal erreichen will, kann dann das Gegenargument kommen, daß das nicht zu trennen ist, was zusammengehört.</li>
+    </ul>
+    <p>Kommen wir zu zwei weiteren Argumenten, welche die Perspektive von Ganzem und Teil verwenden. Es geht hierbei auch um Übergänge - einmal der Übergang vom Ganzen zum Teil und danach vom Teil zum Ganzen.</p>
+
+    <a name="Einschließung"></a>
+    <h3>Einschließung</h3>
+    <p>Argument der Einschließung = Argument, welches zuerst über das Ganze befindet und dann diese Regel auf dessen Teile überträgt.</p>
+    <p>Beispiel: "Was für die ganze Menschheit nicht rechtmäßig ist, kann nicht auf Grund eines willkürlichen Gesetzes für einen einzelnen Menschen rechtmäßig werden."</p>
+    <p><em>"Die Sparsamkeit handelt gemäß der Aufeinanderfolge wie die Diplomatie gemäß der Koexistenz; und wie diese das Teil dem Ganzen, das begrenzte Interesse dem allgemeinen Interesse aufopfert, so bestimmt jene durch die zeitlichen Maßnahmen das Aufopfern der Gegenwart für die Zukunft und des flüchtigen Augenblicks für die längstmögliche Dauer. Kann man anders als aus Absurdität für das Vergnügen einer einzigen Sekunde die höheren Interessen eines ganzen Lebens gefährden wollen?"</em> (V. Jankélévitch)</p>
+    <p>Die Einbeziehung des Teils in das Ganze läßt die Aussage zu, daß das Ganze mehr ist als jedes einzelne seiner Teile. Folgende Behauptungen beruhen darauf:</p>
+    <p>Das Ganze ist mehr wert als die Summe seiner Teile.</p>
+    <p>Was dem Ganzen nicht erlaubt ist, ist auch dem Teil nicht erlaubt.</p>
+    <p>Wer mehr kann, kann auch weniger.</p>
+
+    <a name="Argument durch Aufteilung"></a>
+    <h3>Argument durch Aufteilung</h3>
+    <p>Die Argumentform der <em>Aufteilung</em> zieht Schlüsse von den Teilen auf das Ganze.</p>
+    <p>Beispiel: "Ein Mensch, den weder Eifersucht, noch Haß, noch Besitzgier bewegt haben, hat überhaupt kein Motiv zu einer Gewalttat."</p>
+    <p>Argument durch Aufteilung = Argument, welches eine Folgerung auf das Ganze zieht, nachdem über jedes der Teile befunden wurde.</p>

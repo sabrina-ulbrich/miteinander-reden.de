@@ -1,0 +1,60 @@
+---
+  body: |
+    <!-- <h2>Widerspruch und Unvereinbarkeit<\h2> -->
+    <p><strong>Lernziel:</strong> Hier geht es darum, folgende Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben:</p>
+    <ul>
+      <li>Die Definitionen für Widerspruch und Unvereinbarkeit wurden verstanden. <em>(Kenntnis)</em></li>
+      <li>Aussagen (eigene oder die von anderen) können korrekt als widersprüchlich bzw. widerspruchsfrei bewertet werden. <em>(Fertigkeit)</em></li>
+      <li>Innerhalb von Diskussionen werden Widersprüche/Unvereinbarkeiten erkannt und Gegenargumente vorgebracht. <em>(Fähigkeit)</em></li>
+    </ul>
+
+    <a name="Widersprüche"></a>
+    <h3>Widersprüche</h3>
+    <p>Je schneller die Diskussionsbeiträge aufeinander folgen, d.h. je hitziger die Diskussion ist, desto mehr Fähigkeiten sind erforderlich. Die Schwierigkeit steigt noch einmal enorm, wenn Themen betroffen sind, an denen Sie sich emotional stark beteiligen oder Aussagen angezweifelt werden, die Sie selbst für vollkommen selbstverständlich halten (aber bei den Begründungen dann doch ins Schleudern kommen).</p>
+    <p>Veranschaulichen wir uns Widersprüchlichkeiten - zuerst ohne sie von Unvereinbarkeiten zu trennen - an zwei Beispielen.</p>
+    <p>Ein Lehrer sagt zu seinem Schüler: "Gehorche deinen Eltern und lüge nicht." Das brave Kind will nun seiner Mutter gehorchen. Diese jedoch fordert das Kind zu einer unrichtigen Aussage auf: "Sage dem Lehrer nicht, daß du zu spät gekommen bist, weil ich dich nicht geweckt habe. Sage ihm, daß wir auf der Hinfahrt eine Autopanne hatten!" Das Kind kann die Anweisung des Lehrers nicht befolgen. Wenn es seiner Mutter gehorchen würde, dann müßte es lügen und damit gegen das Gebot des Lehrers verstoßen, der sagt "Lüge nicht". Wenn es seiner Mutter aber nicht gehorcht, dann würde es ebenso gegen das Gebot des Lehrers verstoßen. Es steckt in der Zwickmühle: Egal, was es tut, es tut immer etwas Falsches.</p>
+    <p>Nehmen wir ein anderes Beispiel, in dem sich nicht zwei Aussagen widersprechen, sondern die Aussage der Handlung widerspricht: Jemand behauptet, niemals etwas Lebendiges zu töten und vernichtet gerade mit einem Medikament seine Schnupfen-Bazillen.</p>
+    <p>In diesen beiden Beispielen haben wir von Widersprüchen geredet. Genauer müßten wir sagen, es sind Unvereinbarkeiten. Allerdings werden diese beiden Begriffe in der alltäglichen Sprache meist synonym verwendet. Von Widersprüchen reden wir, wenn wir innerhalb eines formallogischen Systems reden. Unvereinbarkeiten beziehen sich auf Widersprüchlichkeiten bei nicht eindeutig festgelegten Begriffen.</p>
+
+    <a name="Satz vom Widerspruch"></a>
+    <h3>Satz vom Widerspruch</h3>
+    <p>In der Logik gibt es den sogenannten "Satz vom Widerspruch" <em>(principium contradictionis)</em>, der besagt, daß "kontradiktorisch einander entgegengesetzte Urteile nicht beide zugleich wahr sein können, sondern wenn das eine wahr ist, muß das andere falsch sein; oder auch: dasselbe Urteil kann nicht zugleich bejaht und verneint werden." In der alltäglichen Sprache haben wir es eher mit konträren als mit kontradiktorischen Gegensätzen zu tun.</p>
+    <p>Widerspruch = Die Aussage eines Satzes und zugleich seine Negation in ein und demselben (formalen) System.</p>
+
+    <a name="Unvereinbarkeit"></a>
+    <h3>Unvereinbarkeit</h3>
+    <p>Unvereinbarkeit = Geltende Regel, entwickelte These oder übernommene Einstellung, welche (ohne eigenes Wollen) zu einem Konflikt entweder mit einer zuvor angenommenen These oder Regel oder mit einer allgemein akzeptierten These führt, für die die Erwartung besteht, daß man mit ihr übereinstimmt.</p>
+    <p>Die Diskreditierung von Aussagen durch den Nachweis ihrer Widersprüchlichkeit ist ein verbreitetes und wirksames Mittel, Personen bzw. Gruppen als Argumentationspartner prinzipiell zu entwerten. Daß dieses Mittel in Gefahr ist, zu eristischen Zwecken mißbraucht zu werden, liegt auf der Hand. Entsprechend fehlt dieses Mittel in keiner einschlägigen Technik des Rechtbehaltens, auch nicht in Schopenhauers "Eristischen Dialektik":</p>
+    <p><em>"Bei einer Behauptung des Gegners müssen wir suchen, ob sie nicht irgendwie, nötigenfalls auch nur scheinbar (!), im Widerspruch steht mit irgend etwas, das er früher gesagt oder zugegeben hat, oder mit den Satzungen einer Schule oder Sekte, die er gelobt oder gebilligt hat, oder mit dem Tun der Anhänger dieser Sekte, oder auch nur der unechten und scheinbaren Anhänger, oder mit seinem eigenen Tun und Lassen."</em></p>
+    <p>Wenn jemandem in seiner Rede eine Unvereinbarkeit unterläuft, so hat das verschiedene Konsequenzen. Unvereinbar kann dabei ein Redeteil mit einem anderen sein oder die Rede mit dem Handeln. Wer nach Unvereinbarkeiten sucht, der findet meistens irgend etwas aus früheren Aussagen oder Taten.</p>
+    <p>Die Unvereinbarkeit zwingt zur Wahl, zur Angabe der einen Regel, nach der Sie sich bei einem Widerstreit richten, und dazu, die andere Regel aufzugeben oder deren Geltung einzugrenzen.</p>
+    <p>Wer in einer Unvereinbarkeitslage ist, macht sich unglaubwürdig oder sogar lächerlich.</p>
+    <p>Andererseits: Da im Gegensatz zum formalen Widerspruch die Unvereinbarkeit nicht generell gilt, sondern sich in einer bestimmten Situation ergibt, besteht eine Möglichkeit sie zu vermeiden darin, im vorhinein sämtliche denkbaren Situationen zu untersuchen, aus denen sie entstehen könnte.</p>
+    <p>Kommen wir nun zum Verfahren der Argumentation. Wie läßt sich eine Behauptung über eine Tatsache bzw. eine Behauptung, die Anspruch auf Wahrheit erhebt, widerlegen? Die wirksamste Technik, eine Behauptung zu bestreiten, liegt darin, ihre Unvereinbarkeit mit anderen Behauptungen aufzuzeigen, die ihrerseits als stärker gesichert gelten. Diese Behauptungen sind dann in einem weiteren Zusammenhang von unverzichtbaren Tatsachen oder Wahrheiten vorzutragen.</p>
+
+    <a name="Wahrheitskriterien"></a>
+    <h3>Wahrheitskriterien</h3>
+    <p>Wer sich auf Wahrheit berufen will, hat verschiedene Möglichkeiten, die Tatsachen zu beweisen: durch Empirie, Konsens und Konsistenz</p>
+    <p>Empirie bedeutet Erfahrung bzw. bezeichnet eine auf Erfahrung beruhende Erkenntnis. Wer mit seiner Behauptung "Das Auto war rot" Anspruch auf Wahrheit erhebt, und diese mit seiner sinnlichen Wahrnehmung ("Ich habe es gesehen") begründet, der bezieht sich auf Empirie. Wenn ein anderer daherkommt und sagt "Nein, das Auto war grün" und dies ebenfalls empirisch begründet, dann sind diese beiden Behauptungen nicht miteinander vereinbar (wenn sie sich auf dasselbe Auto beziehen).</p>
+    <p>Wenn in dieser Beispielsituation noch andere Zeugen anwesend waren, die alle ein grünes Auto gesehen haben, und nur ein Mann das Auto als rot beschreibt, dann werden im allgemeinen die Behauptungen als wahrscheinlicher angenommen, mit der mehr Menschen übereinstimmen, d. h. einen Konsens haben. In dem Falle, in dem mehrere Menschen sich darüber einig sind, ein grünes Auto gesehen zu haben, ist sowohl das Kriterium der Empirie als auch das des Konsens erfüllt.</p>
+    <p>Das dritte Wahrheitskriterium bezieht sich auf die Konsistenz der Aussage.</p>
+    <p>Konsistenz meint hier Widerspruchsfreiheit. Nehmen wir in unserer Beispielsituation an, daß das von mehreren Menschen als grün beschriebene Auto einen Unfall verursacht hat, und der Fahrer geflüchtet ist. Ein Polizist nimmt die Indizien auf und stellt grüne Lackspuren an dem vom Unfall betroffenen Auto fest. Dieses Indiz stimmt mit der Aussage der Menschen überein, die ein grünes Auto gesehen haben, und wirkt verstärkend. Es stimmt aber nicht mit der Aussage des Mannes überein, der ein rotes Auto gesehen haben will und schwächt dessen Glaubwürdigkeit.</p>
+    <p>Wir stützen uns häufig neben Tatsachen und Wahrheiten auch auf weniger gesicherte Annahmen, die dennoch eine ausreichende Basis für eine vernünftige Überzeugung abgeben.</p>
+
+    <a name="Selbstaufhebung"></a>
+    <h3>Selbstaufhebung</h3>
+    <p>Ein besonderer Fall von Widerspruch ist der Selbstwiderspruch. Wenn eine Behauptung sich selbst widerspricht, dann reden wir von einer sich selbst aufhebenden Behauptung.</p>
+    <p>Selbstaufhebung (Autophagie) = Unvereinbarkeit zwischen einer aufgestellten Regel und den Bedingungen oder Folgen ihrer Bestätigung oder Anwendung.</p>
+    <p>Retorsion = Argument, das die Regel durch den Hinweis auf die bestehende Selbstaufhebung angreift.</p>
+    <p>Veranschaulichen wir uns die Anwendung einer Retorsion an zwei Beispielen.</p>
+    <p>Während der Pause einer Theateraufführung geht ein Polizist auf die Bühne und sagt: "Was nicht auf dem Programm steht, ist nicht erlaubt." Ein Zuschauer fragt: "Stehen Sie denn auf dem Programm?" Der Zuschauer weist den Polizisten indirekt auf seinen Selbstwiderspruch hin, indem er einfach nur eine harmlose Frage stellt.</p>
+    <p>Das berühmte Beispiel von dem Kreter Epimenides veranschaulicht ebenfalls den Selbstwiderspruch. Epimenides, der Kreter, sagt: "Alle Kreter sind Lügner." Sagt er die Wahrheit oder lügt er?</p>
+
+    <a name="Übung"></a>
+    <h3>Übung</h3>
+    <p>Eine gute Übung ist es, eine Zeitlang (etwa eine Woche) auf Unvereinbarkeiten in der Sprache zu achten.</p>
+    <ul>
+      <li>Für den Anfang ist es einfacher, wenn Sie etwas lesen oder jemandem zuhören und sich dabei nicht so sehr auf den Inhalt konzentrieren müssen. Filtern Sie aus dem Gesagten die Behauptungen heraus, die als Thesen aufgestellt werden, und trennen Sie diese von den Aussagen, die als stützende Argumente vorgebracht werden.</li>
+      <li>Ein nächster Schritt besteht darin, Widersprüche innerhalb einer Diskussion zu erkennen.</li>
+      <li>Und noch ein weiterer Schritt ist getan, wenn Sie in der Diskussion adäquat auf Widersprüche reagieren, z. B. durch einen Hinweis auf diesen Widerspruch.</li>
+    </ul>

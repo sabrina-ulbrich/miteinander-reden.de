@@ -1,0 +1,14 @@
+---
+  body: |
+    <!-- <h2>Trugschlüsse erkennen<\h2> -->
+    <p>Hier erfolgt jetzt im zweiten Schritt die Auflösung der Frage, ob wir es mit einem gültigen oder ungültigen Schluß zu tun hatten.</p>
+    <h3>2. Schritt</h3>
+    <p>Nachdem wir das Beziehungsmuster im 1. Schritt extrahiert haben, können wir uns fragen, ob diese Form gültig ist. Dafür überlegen wir, ob es ein Beispiel gibt, das die gleiche Form hat und von wahren Prämissen zu einer falschen Konklusion gelangt. Wie wär's mit folgendem Beispiel?</p>
+    <ul>
+      <li>Gemälde sind manchmal Kopien.</li>
+      <li>Deshalb kann es sein, daß Gemälde immer Kopien sind.</li>
+    </ul>
+    <h3>Ergebnis</h3>
+    <p>Dieses Beispiel zeigt ganz klar, daß diese Argumentform ungültig ist, denn dieses Argument führt von einer wahren Prämisse zu einer unbestreitbar falschen Konklusion.</p>
+    <p>Denn während es durchaus zutrifft, daß einige Gemälde Kopien sind, so kann es nicht sein, daß alle Gemälde kopiert sind, denn sie müssen von irgend etwas kopiert sein. Es muß Gemälde geben, die die Originale sind. Mit diesem Beispiel haben wir bewiesen, daß die Wahrheit der Prämisse nicht zu dieser Konklusion führt. Mit diesem Gegenbeispiel haben wir die Form als ungültig bewiesen.</p><br><br>
+    <a href="falsche_schluesse_1#Aufgabe">zurück zur letzten Seite</a>

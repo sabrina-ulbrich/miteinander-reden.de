@@ -1,0 +1,63 @@
+---
+  body: |
+    <!-- <h2>Falsche Schlüsse<\h2> -->
+    <p>Falsche Schlüsse sind ungültige  Schlußfolgerungen, die durch besondere Kunstgriffe oder Trugmittel zustande kommen, oder einfach durch Unkenntnis.</p>
+
+    <a name="Nutzen"></a>
+    <h3>Nutzen</p></td>
+    </tr></table>
+    <p>Wenn wir herausfinden wollen, wie wir Trugschlüsse entlarven und auflösen können, ist es sinnvoll die gebräuchlichsten Tricks bzw. Fehler zu kennen. Denn wir können einer Strategie nicht wirksam begegnen, wenn wir sie nicht kennen. Durch die Kenntnis, welche Schlüsse ungültig sind, versetzen wir uns in die Lage sowohl selbst diese Fehler zu vermeiden als auch bei anderen zu erkennen und nicht darauf hereinzufallen.</p>
+    <p>Viele Menschen sind der Meinung, dass die Kenntnis von rhetorischen Tricks nur dann relevant wird, wenn Sie es mit ausgefuchsten Rednern oder Sophisten zu tun haben. Das Gegenteil ist der Fall. Trugschlüsse sind keineswegs nur den Experten vorbehalten. Gerade auch der Ungeübte verwendet diese Schlüsse sehr häufig - nicht bewußt, sondern aus Unkenntnis. Und ebenso fällt der Ungeübte leicht auf diese Trugschlüsse herein, weil er sie nicht als falsch erkennt, sondern diese ihm wie richtige Schlüsse erscheinen. Derjenige, der die Regeln kennt, läßt sich von diesem Schein nicht so leicht trügen. Trugschlüsse können also sowohl aus gewollten wie auch aus ungewollten Denkfehlern entstehen.</p>
+
+    <a name="Gute Gründe"></a>
+    <h3>Gute Gründe</h3>
+    <p>Jeder Mensch kommt in die Situation, dass er seine Auffassungen durch Argumente stützen muß, wenn er erreichen will, dass seine Mitmenschen ihm zustimmen. Ein Argument besteht aus einer Konklusion und Prämissen. Die Konklusion ist das, <em>wofür</em> argumentiert wird, die Prämissen das, von <em>woher</em> argumentiert wird. "Durch Argumente stützen" bedeutet also, dass der Sprecher seinen Zuhörern gute Gründe (Prämissen) nennt, warum sie seine Ausführungen (seine Konklusion) als Überzeugung annehmen sollten.</p>
+    <p>Das ist nun einfacher gesagt als getan. Bei der Aufstellung von stichhaltigen Begründungen kann einem eine Vielzahl von Fehlern unterlaufen. Zuerst einmal ist die Form zu beachten. Denn es gibt Argumentformen, die allein schon aufgrund der Relationen falsch sind. Diese Fehler zu entdecken ist nicht immer ganz einfach, weil sie aufgrund der Formulierungen oftmals "irgendwie logisch" erscheinen. Erst nach einer genaueren Prüfung stellen sie sich als falsch heraus.</p>
+
+    <a name="Form & Inhalt"></a>
+    <h3>Form & Inhalt</h3>
+    <p>Wenn die Form ungültig ist, können wir uns durch einen Verweis auf die Ungültigkeit langwierige und unnötige Diskussionen ersparen. Erst wenn wir wissen, dass die Form gültig ist, können wir dazu übergehen, den Inhalt genauer zu betrachten. Ist das Argument gültig und die Prämissen wahr, dann sollten wir konsequenterweise auch die Konklusion annehmen.</p>
+    <p>Wahre Prämissen in einem gültigen Argument verpflichten uns zu der Annahme der Konklusion, einfach weil es unvernünftig wäre die Konklusion nicht anzunehmen.</p>
+
+    <a name="Praktische Gültigkeitsprüfung"></a>
+    <h3>Praktische Gültigkeitsprüfung</h3>
+    <p>Um ein Argument auf seine Gültigkeit hin zu prüfen, wendet man die Technik des Modellebildens an:</p>
+    <ol>
+      <li>Extrahieren Sie aus dem zur Diskussion stehenden Argument das Beziehungsmuster, das dem Übergang von den Prämissen zur Konklusion zugrunde liegt.</li>
+      <li>Bilden Sie nach diesem Modell ein zweites Argument, das von unbestreitbar wahren Prämissen zu einer unbestreitbar falschen Konklusion führt.</li>
+    </ol>
+    <p>Wenn Sie ein solches Argument bilden können, dann haben Sie bewiesen, dass das Argumentationsmuster ungültig ist. Sie haben damit nicht bewiesen, dass die Konklusion falsch ist, oder dass die Prämissen falsch sind, sondern Sie haben bewiesen, dass die Wahrheit der Prämissen allein kein hinreichender Grund für die Annahme ist, dass die Konklusion wahr ist.</p>
+    <p>Verdeutlichen wir uns diese Vorgehensweise an einem praktischen Beispiel :</p>
+    <p><em>"Alles nämlich, was ich bisher am ehesten für wahr angenommen, habe ich von den Sinnen oder durch Vermittlung der Sinne empfangen. Nun aber bin ich dahinter gekommen, dass diese uns bisweilen täuschen, und es ist ein Gebot der Klugheit, niemals denen ganz zu trauen, die auch nur einmal uns getäuscht haben."</em></p>
+    <p>Wir wollen diese Behauptung von Descartes jetzt nicht inhaltlich oder im Rahmen seiner Philosophie untersuchen, sondern nur die Form des daraus ableitbaren Arguments prüfen. Wir können diese beiden Sätze - der Übersicht halber - in folgendes Argument umwandeln:</p>
+    <ul>
+      <li>Unsere Sinne täuschen uns manchmal.</li>
+      <li>Deshalb kann es sein, dass unsere Sinne uns immer täuschen.</li>
+    </ul>
+
+    <a name="1. Schritt"></a>
+    <h3>1. Schritt</h3>
+    <p>Halten Sie das für ein gültiges Argument? Prüfen wir es doch einfach nach - Schritt für Schritt. Damit wir jetzt eine Form erhalten, die wir auf alle ähnlichen Sätze anwenden können, ist es erforderlich, die konkreten Begriffe durch Platzhalter zu ersetzen. Dafür müssen wir den Satz grammatikalisch etwas umstellen und erhalten dann:</p>
+    <ul>
+      <li>X ist manchmal Y.</li>
+      <li>Deshalb kann es sein, dass X immer Y ist.</li>
+    </ul>
+    <p>X bezeichnet "unsere Sinne" und Y "trügerisch". Der Vorteil, den diese allgemeinen Formulierungen haben, ist der, dass sie auf alle konkreten Sätze, die dieser Form entsprechen, anwendbar sind. Damit vereinfachen wir uns die Prüfung. Wir müssen nur nach der in den Sätzen enthaltenen Form Ausschau halten. Dies erfordert die Fähigkeit zu abstraktem Denken, nämlich die Fähigkeit das Allgemeine im Einzelnen zu erkennen.</p>
+
+    <a name="Aufgabe"></a>
+    <h3>Aufgabe</h3>
+    <p>Bevor Sie jetzt weiterlesen, versuchen Sie den 2. Schritt selbständig zu vollziehen: suchen Sie ein widerlegendes Argument - wenn es eins gibt - und lesen Sie dann die <a href="falsche_schluesse_2">Lösung</a>. </p>
+
+    <a name="Praxis"></a>
+    <h3>Praxis</h3>
+    <p>Was heißt das nun für die Praxis? Wenn Sie diese Argumentform in einer Rede heraushören, dann wissen Sie, dass der Redner Sie entweder übers Ohr hauen will oder nicht weiß, dass er ein ungültiges Argument verwendet.</p>
+    <p>Es genügt nicht, die Falschheit der Schlüsse aufzuzeigen, Sie müssen auch den Grund der Falschheit nachweisen. Und das auf eine Weise, dass deutlich wird, dass diese Begründung für alle Trugschlüsse der gleichen Art gilt, also verallgemeinerbar ist. Für Sie als Redner bedeutet es, dass Sie dieses Argument nicht verwenden sollten. Es gibt zwar einige Menschen, die darauf vertrauen, dass ihre Zuhörer die Ungültigkeit der Argumente nicht erkennen. Jedoch macht sich jemand, der ungültige Argumente verwendet, unglaubwürdig und setzt das Vertrauen, welches seine Zuhörer in ihn stecken aufs Spiel.</p>
+    <p>Es gibt einige Verbindungswörter, auf die man achten sollte, wenn man nach Argumenten Ausschau hält. Da wären z. B.: wenn ... dann, und, oder, ... impliziert ..., sowohl ... als auch, entweder ... oder, also, folglich, daher, etc.</p>
+    <!--
+    <p>Die folgenden Beispiele gehören zu den wohl häufigsten Fehlschlüssen. Wer diese erkennen und nachweisen kann, der ist schon einen ganzen Schritt weiter.</p>
+    <p><a href="Trugschluesse#wenn_dann.html">Wenn ... dann</a></p>
+    <p><a href="Trugschluesse#wenn_dann_nicht.html">Wenn ... dann, nicht</a></p>
+    <p><a href="Trugschluesse#sowohl_alsauch_nicht.html">Sowohl ... als auch, nicht</a></p>
+    <p><a href="Trugschluesse#entweder_oder_nicht.html">Entweder ... oder, nicht</a></p>
+    <p><a href="Trugschluesse#jeder_ein.html">Jeder ... ein</a></p>
+    -->

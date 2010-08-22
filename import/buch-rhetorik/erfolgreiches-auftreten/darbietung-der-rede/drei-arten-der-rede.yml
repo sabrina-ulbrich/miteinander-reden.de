@@ -1,0 +1,112 @@
+---
+  body: |
+    <!-- <h2>Drei Arten der Rede<\h2> -->
+    <p><strong>Lernziel:</strong> Hier geht es darum, folgende Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben:</p>
+    <ul>
+      <li>Die Merkmale der unterschiedlichen Redearten können beschrieben und an einem Beispiel expliziert werden. (Kenntnis)</li>
+      <li>In alltäglichen Situationen kann einer rednerischen Darbietung die korrekte Bezeichnung der Redeart zugeordnet werden. (Fertigkeit)</li>
+      <li>Redebeiträge können in den verschiedenen Arten vorgetragen werden. (Fähigkeit)</li>
+    </ul>
+
+    <a name="Beispiel für eine Beratende Rede"></a>
+    <h3>Beispiel für eine Beratende Rede</h3>
+    <p>Proklamation (Aufruf): Napoleon I.: Aus der Rede vom Neujahrstag 1814.</p>
+    <p><em>Der Augenblick ist nicht gut gewählt, um von mir eine Änderung der Verfassung zu verlangen. Ihr seid nicht die Vertreter der Nation, sondern die Abgeordneten der Departements. Ich allein bin der Vertreter des Volkes ... Was ist überhaupt ein Thron? Vier Stücke vergoldetes Holz und ein Fetzen Samt? - Nein, der Thron ist ein Mann, und dieser Mann bin ich, mit meinem Willen, meinem Charakter, meinem Namen. Ich kann Frankreich retten, nicht ihr. Schmutzige Wäsche wäscht man zu Hause und nicht in der Öffentlichkeit ... Ihr wollt mich mit Kot besudeln. Nun, so wißt denn, dass ich ein Mann bin, den man töten, aber nicht entehren kann. Wenn ich auf Euch hörte, würde ich dem Feinde mehr abtreten, als er verlangt. In drei Monaten werdet Ihr entweder den Frieden haben oder ich werde nicht mehr unter den Lebenden weilen.</em></p>
+
+    <a name="Beispiel für eine Gerichtsrede"></a>
+    <h3>Beispiel für eine Gerichtsrede</h3>
+    <p>Friedrich Schiller: Auszug aus dem Plädoyer der Amme Hanna Kennedy für Maria Stuart (1800).</p>
+    <p>
+      <em>...<br>
+      Kennedy: Da Ihr die Tat geschehen ließt, wart Ihr nicht<br>
+      Ihr selbst, gehörtet Euch nicht selbst. Ergriffen<br>
+      Hatt Euch der Wahnsinn blinder Liebesglut,<br>
+      Euch unterjocht dem furchtbaren Verführer,<br>
+      Dem unglückselgen Bothwell - Über Euch<br>
+      Mit übermütgem Männerwillen herrschte<br>
+      Der Schreckliche, der Euch durch Zaubertränke,<br>
+      Durch Höllenkünste das Gemüt verwirrend<br>
+      Erhitzte -</em>
+    </p>
+
+    <a name="Beispiel für eine Epideiktische Rede"></a>
+    <h3>Beispiel für eine Epideiktische Rede</h3>
+    <p>Nachruf: Theodor Heuss: Auszug der Rede bei der Weihe des Mahnmals im Vernichtungslager Bergen-Belsen (1952).</p>
+    <p><em>... Das Sterben im Kriege, am Kriege hat bald die furchtbarsten Formen gewählt. Auch hier in Belsen hat der Krieg dann, mit Hunger und Seuchen als kostenlose Gehilfen zur Seite, gewütet. Ein zynischer Bursche, ein wüster Gesell mochte sagen: In der Hauptsache waren es ja bloß Juden, Polen, Russen, Franzosen, Belgier, Norweger, Griechen und so fort! Bloß? Es waren Menschen wie du und ich, sie hatten ihre Eltern, ihre Kinder, ihre Männer, ihre Frauen! Die Bilder der Überlebenden sind die schreckhaftesten Dokumente. ...</em></p>
+
+    <a name="Definitionen"></a>
+    <h3>Definitionen</h3>
+    <p>Beratende Rede <em>(genus deliberativum)</em> Der Redner rät zu oder ab, und seine Meinung bestimmt sich nach dem, was als das Nützlichste erscheint. Man streitet darüber, wie die gegenwärtige Situation zu beurteilen sei und welche Maßnahmen zukünftig ergriffen werden müssen. Die Beratende Rede ist dialektisch schwächer als die Gerichtsrede.</p>
+    <p><strong>Beispiele:</strong> Manifest, Aufruf (Proklamation), Petition.</p>
+    <p>Gerichtsrede	<em>(genus iudiciale)</em> Der Redner klagt an oder verteidigt im Hinblick auf die Entscheidung für das Gerechte. Über die Beurteilung vergangener Vorgänge wird gestritten. Ein und derselbe Sachverhalt wird von mindestens zwei gegensätzlichen Standpunkten, d.h. im Widerspruch erörtert.</p>
+    <p><strong>Beispiele:</strong> Plädoyer, Bittschrift (Supplik), Streitschrift, Offener Brief.</p>
+    <p>Epideiktische Rede <em>(genus demonstrativum)</em> Der Redner lobt oder tadelt, und seine Rede bezieht sich auf das Schöne und das Häßliche. Die Epideiktische Rede hat in der Regel einen erzieherischen Aspekt, denn sie zielt weniger darauf, eine direkte Handlung hervorzurufen als vielmehr eine Disposition zu einer Handlung herzustellen, wenn der geeignete Moment gekommen ist. Das Ziel besteht darin, Übereinstimmung für bestimmte Werte zu schaffen, die man durchsetzen möchte und an denen sich die Handlung in der Zukunft ausrichten soll. Die Epideiktische Rede hat die dialektisch schwächste Gestalt.</p>
+    <p><strong>Beispiele:</strong> Verlautbarung, Kritik, Pamphlet, Laudatio (Lobrede), Nekrolog (Nachruf).</p>
+    <p>Die klassischen drei Redearten sind eine auf antike Gesellschaftsverhältnisse bezogene beispielhafte Typologie. Diese theoretische Aufteilung steht in der Praxis einer Vielzahl von Redegattungen gegenüber. Diese verschiedenen Gattungen lassen sich den drei Kategorien nicht immer eindeutig zuordnen. So gehört z.B. die Predigt allen drei Redearten an.</p><br>
+    <table>
+      <tr>
+        <th>Beratungsrede</th>
+        <th>Gerichtsrede</th>
+        <th>Lob- und Tadelrede</th>
+      </tr>
+      <tr>
+        <td>Manifest</td>
+        <td>Plädoyer</td>
+        <td>Verlautbarung</td>
+      </tr>
+      <tr>
+        <td>Aufruf (Proklamation)</td>
+        <td>Bittschrift (Supplik)</td>
+        <td>Kritik</td>
+      </tr>
+      <tr>
+        <td>Petition</td>
+        <td>Streitschrift</td>
+        <td>Pamphlet (Schmähschrift)</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Offener Brief</td>
+        <td>Laudatio (Lobrede)</td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>Anklage</td>
+        <td>Nekrolog (Nachruf)</td>
+      </tr>
+    </table>
+
+    <a name="Rhetorik & Poesie"></a>
+    <h3>Rhetorik & Poesie</h3>
+    <p>Die Epideiktische Rede wird von einigen Theoretikern nicht der Rhetorik, sondern eher der Poesie zugeordnet, da es in ihr nicht um ein strittiges Thema geht, sondern um Aussagen, die vom Publikum schon akzeptiert sind. Das ist nicht ganz richtig. Die Epideiktische Rede behält ihre rhetorische Funktion, wenn sie z.B. in der Werbung eingesetzt wird. Denn hier werden Behauptungen als sicher <em>dargestellt</em>, obwohl sie tatsächlich nicht sicher <em>sind</em>. Dann ist es einfach nur ein rhetorischer Trick, der etwas voraussetzt, was gar nicht gegeben ist.</p>
+
+    <a name="Werbung"></a>
+    <h3>Werbung</h3>
+    <p>Werbung kann man in einem anderen Fall auch der Beratenden Rede zuordnen. Nämlich dann, wenn sie verschiedene Alternativen darstellt und durch das Aufzeigen von Vor- und Nachteilen zu einer Empfehlung kommt. Heutzutage kommt es allerdings selten zu einer solchen Gegenüberstellung. Meist wird nur das feilgebotene Produkt in den höchsten Tönen gelobt ohne ein Für und Wider in den Kaufappell zu integrieren.</p>
+
+    <a name="Gerichtsrede"></a>
+    <h3>Gerichtsrede</h3>
+    <p>In der Gerichtsrede gibt es fünf Standpunkte, die strittig sein können. Demzufolge hat der Verteidiger fünf Ansatzpunkte für die Verteidigung des Angeklagten.</p>
+    <ol>
+      <li>
+        Das Beweisverfahren ist strittig.<br>
+        Es wird bestritten, dass der Angeklagte die Tat begangen hat.
+      </li>
+      <li>
+        Die Definition ist strittig.<br>
+        Es wird bestritten, dass die Tat ein Vergehen im Sinne der Anklage ist. Die Tat wird dann z.B. nicht als Mord, sondern als Totschlag oder fahrlässige Tötung definiert.
+      </li>
+      <li>
+        Die Verantwortungsfähigkeit ist strittig.<br>
+        Es wird bestritten, dass der Angeklagte für sein Verhalten verantwortlich ist. Z.B.: Geistesschwäche (Unzurechnungsfähigkeit), Befehlsnotstand.<br>
+        Im Beispiel der Maria Stuart bestreitet die Amme Hanna Kennedy, dass Maria für ihre Tat verantwortlich sein kann.
+      </li>
+      <li>
+        Die Form des Gerichtsverfahrens ist strittig.<br>
+        Es wird bestritten, dass das Gericht oder die Geschworenen den Fall beurteilen können. Z.B.: Wegen Befangenheit, Verfahrensfehler.
+      </li>
+      <li>
+        Die Rechtsordnung ist strittig.<br>
+        Das Argument wird hauptsächlich in politischen Prozessen verwendet. Es wird bestritten, dass die Rechtsordnung, die das Gericht zugrundelegt, richtig ist.
+      </li>
+    </ol>

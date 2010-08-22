@@ -1,0 +1,63 @@
+---
+  body: |
+    <!-- <h2>Rhetorik und Logik<\h2> -->
+    <p><strong>Lernziel:</strong> Hier geht es darum, folgende Kenntnisse zu erwerben:</p>
+    <ul>
+      <li>Die Begriffe dialektischer Schluß und formal logischer Schluß können definiert werden.</li>
+      <li>Die unterschiedlichen Schlußformen können beschrieben und an einem Beispiel expliziert werden.</li>
+      <li>Der Zusammenhang dieser beiden Schlußformen mit Rhetorik kann erläutert werden.</li>
+    </ul>
+
+    <a name="Logik-Beispiele"></a>
+    <h3>Logik-Beispiele</h3>
+    <p>Zuerst ein Beispiel für einen dialektischen Schluß:</p>
+    <p>
+      <em>Wenn man den Frieden will, muß man den Krieg vorbereiten.</em><br>
+      <em>Sie wollen den Frieden?</em><br>
+      <hr>
+      <em>Also müssen Sie den Krieg vorbereiten!</em>
+    </p>
+    <p>Jetzt ein Beispiel für einen formal logischen Schluß:</p>
+    <p>
+      <em>Alle M sind P</em><br>
+      <em>Alle S sind M</em><br>
+      <hr>
+      <em>Alle S sind P</em>
+    </p>
+    <p>Oder etwas anschaulicher nochmal:</p>
+    <p>
+      <em>Alle Menschen sind sterblich.</em><br>
+      <em>Sokrates ist ein Mensch.</em><br>
+      <hr>
+      <em>Also ist Sokrates sterblich.</em>
+    </p>
+
+    <a name="Logik-Definitionen"></a>
+    <h3>Logik-Definitionen</h3>
+    <p><em>Ein Schluß ist formal logisch</em>, wenn die in seiner Beweisführung verwendeten Zeichen von jeder Mehrdeutigkeit freigehalten sind. Der Schluß folgt Regeln, die in formalen Systemen präzisiert sind. Formal logische Schlüsse werden auch als <em>theoretische Syllogismen</em> bezeichnet.</p>
+    <p><em>Ein Schluß ist dialektisch</em>, wenn allgemein gültige Meinungen seine Prämissen  bilden.</p>
+    <p>Allgemein gültig sind Meinungen, die von allen Menschen oder von der Mehrheit geteilt werden, oder bei den Philosophen verbreitet sind.</p>
+    <p>Die dialektischen Schlüsse entwickeln sich von dem allgemein Gültigen her mit dem Ziel, andere Thesen, die umstritten sind oder es sein könnten, durchzusetzen: sie sind also auf Überredung oder Überzeugung angelegt. Sie bestehen nicht aus zwingenden Folgerungen, sondern sie stellen mehr oder minder überzeugende Argumente dar, die nie ausschließlich formal sind. Dialektische Schlüsse werden auch als <em>praktische Syllogismen</em> bezeichnet.</p>
+    <p>Ein Argument ist eine Behauptung mit Begründung. Das Ziel der Argumentation (vom lat. argumentatio, "Beweisführung") besteht darin, die Folgen aus bestimmten Prämissen abzuleiten. Um Ordnung in die Vielfalt der Ansätze der Argumentationstheorie zu bringen, kann man die rhetorische, die dialektische und die logische Perspektive unterscheiden.</p>
+    <p>Wenn wir darüber nachdenken, auf welche Art und Weise Diskussionen in den verschiedenen Bereichen geführt werden - in der Politik, der Ethik, dem Recht, den Gesellschaftswissenschaften und in der Philosophie - erscheint es einleuchtend, dass unser intellektuelles Rüstzeug nicht ganz auf eine formale Logik reduziert werden kann. Fragen wie "Wie kann man zwischen den verschiedenen Zielen, die man anstrebt, wählen?" oder "Warum sollte man die eine Handlung der anderen vorziehen?" lassen sich nicht formal logisch beantworten.</p>
+
+    <a name="Rhetorische Urteile"></a>
+    <h3>Rhetorische Urteile</h3>
+    <p>Gegenstand der Rhetorik ist die Analyse jener Urteile, die sich nicht auf formal korrekte Schlüsse oder auf mehr oder minder schematisierte Kalküle stützen. Rhetorik hat es mit Problemfragen zu tun, für die wir keine exakten Wissenschaften haben. Dennoch ist Rhetorik notwendig, weil sie überhaupt erst die Ressourcen der Rationalität in einem Bereich auszuschöpfen lehrt, der für Wahrheitsansprüche prinzipiell unzugänglich bleibt. Unzugänglich deshalb, weil dieser Bereich sich nicht in die Gegenständlichkeit einer objektiven Welt überführen läßt, weil dieser Bereich mit der sozialen Welt deckungsgleich ist, die in und durch situatives Handeln von Subjekten erst konstituiert wird.</p>
+
+    <a name="Argumentieren"></a>
+    <h3>Argumentieren</h3>
+    <p>Die Entscheidung, nach welchem Kriterium Ziele oder Handlungen ausgewählt werden - ob z.B. nach Wirksamkeit, Lust oder unter moralischen Gesichtspunkten - sollte in einem Argumentationsprozeß getroffen werden. <em>Argumentationsprozeß</em> muß nicht notwendigerweise heißen, dass dieser mit anderen stattfindet. Es kann auch bedeuten, dass eine Person für sich allein verschiedene Argumente für Pro und Contra abwägt. Jedoch wird durch eine Argumentation mit anderen die Wahrscheinlichkeit, dass mehr Perspektiven berücksichtigt werden, größer - und damit auch die Sicherheit, dass die richtige Entscheidung getroffen wurde.</p>
+    <p>Rhetorik ist die Kunst, einen Konsens in Fragen herbeizuführen, die nicht mit zwingender Beweisführung entschieden werden können. Schon für Aristoteles war Rhetorik das Vermögen, bei jedem Gegenstand das möglicherweise Überzeugende zu erkennen.</p>
+    <p>Da bei dialektischen Schlüssen nicht von Gewißheiten ausgegangen werden kann, sondern von Wahrscheinlichkeiten, müßte ein Redner seinen Schluß korrekterweise wie folgt formulieren:</p>
+    <p>
+      <em>Soweit uns bekannt ist, fordert die Situation A die Maßnahme B.</em><br>
+      <em>Es scheint, als befänden wir uns gegenwärtig in einer Situation vom Typ A.</em><br>
+      <hr>
+      <em>Also ist es vermutlich am besten, wenn wir eine Maßnahme des Typs B ergreifen.</em>
+    </p>
+
+    <a name="Praktische Anwendung"></a>
+    <h3>Praktische Anwendung</h3>
+    <p>Natürlich wird kein Redner eine solche Formulierung wählen, wenn er die Maßnahme B von seinen Zuhörern erwartet. Vielmehr wird er die beiden Prämissen als gewiß darstellen, um durch die logische Verknüpfung sicher zu der Konklusion  zu gelangen. Meist können sogar ein oder zwei Schritte der genannten drei weggelassen werden. Nämlich dann, wenn der Redner erwarten kann, dass die Prämisse(n) schon im Weltbild des Publikums verankert sind.</p>
+    <p><em>"Das Gefühl erblickt nur die Gegenwart; die Vernunft erblickt die Zukunft und die Summe der Zeit. Und da folglich die Gegenwart die Vorstellung stärker erfüllt, wird die Vernunft gewöhnlich besiegt; läßt aber die Kraft der Beredsamkeit und der Überredung künftige und entfernte Dinge als gegenwärtig erscheinen, dann obsiegt die Vernunft über die sich sträubende Vorstellung." (F. Bacon, Of the advancement of learning, Buch II, Kap. 17)</em></p>

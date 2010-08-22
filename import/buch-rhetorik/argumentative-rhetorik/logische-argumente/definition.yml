@@ -1,0 +1,92 @@
+---
+  body: |
+    <!-- <h2>Definition<\h2> -->
+    <p><strong>Lernziel:</strong> Hier geht es darum, folgende Kenntnisse, Fähigkeiten und Fertigkeiten zu erwerben:</p>
+    <ul>
+      <li>Die Bedeutung von Identität, Definition, Analyse und Tautologie wurde verstanden. <em>(Kenntnis)</em></li>
+      <li>Begriffe können definiert werden. <em>(Fertigkeit)</em></li>
+      <li>Innerhalb von Diskussionen werden Begriffe definiert verwendet. Es wird auf eine durchgehende Verwendung dieser Definition - und keiner anderen - (bei sich und anderen) geachtet. <em>(Fähigkeit)</em></li>
+    </ul>
+
+    <a name="Beispiel"></a>
+    <h3>Beispiel</h3>
+    <p>Stellen Sie sich eine Situation vor, in der Sie sich mit einem Freund oder Kollegen unterhalten und ihm von Ihrem Interesse an Rhetorik berichten. Entgegen Ihren Erwartungen reagiert er recht kühl und erwidert nur mißmutig: "Hm, ich kenne einige solcher Leute, die immer nur darauf aus sind, ihre Meinung durchzusetzen und dies mit allen Mitteln und Tricks versuchen." Sie sind verwundert, weil Sie eigentlich etwas anderes gemeint haben und wollen dieses Mißverständnis aufklären: "Nein, nein! Aus diesem Grund beschäftige ich mich doch gar nicht mit dem Thema. Rhetorik ist die Kunst der Überzeugung, und Überzeugung bedeutet, den anderen mit Hilfe von vernünftigen und triftigen Gründen - und nicht durch miese Tricks - zu einer Handlung zu motivieren. Das, was du meinst, würde ich eher als Manipulation bezeichnen." "Ach so..."</p>
+    <p>In dieser Beispielsituation hätte sich eine längere Diskussion ergeben können über die Verwendung von "Rhetorik". Nämlich dann, wenn Ihr Freund oder Kollege Einwände gegen eine solche Verwendung des Begriffs vorgebracht hätte. Letztlich kommt es in einer solchen Diskussion nur darauf an, auf welche Verwendungsweise sich beide einigen.</p>
+
+    <a name="Definition und Identität"></a>
+    <h3>Definition und Identität</h3>
+    <p>Bevor wir uns der Definition näher zuwenden, will ich noch einige Anmerkungen zu "Identität" machen. Eine Definition zielt darauf ab, einem bestimmten Gegenstand einen bestimmten Begriff zuzuordnen und diese Zuordnung konstant zu halten. Die Zuordnung setzt den zu definierenden Begriff mit den definierenden Begriffen gleich, also identisch. In der natürlichen Sprache sind Diskussionen über die "richtige Definition" durchaus gebräuchlich. Wenn in einer Unterhaltung ein Begriff unterschiedlich verwendet wird, d. h. mit verschiedenen Definitionen, dann wird eine verständliche Übermittlung von Informationen unmöglich.</p>
+
+    <a name="Satz der Identität"></a>
+    <h3>Satz der Identität</h3>
+    <p>Zu den vier grundlegenden Sätzen der Logik gehört der Satz der Identität, welcher verlangt, "daß jeder Begriff im Verlauf eines zusammenhängenden Denkaktes genau dieselbe Bedeutung beibehalte; es ist <em>die Forderung der feststehenden Bedeutung der in einem Urteil gebrauchten begrifflichen Symbole</em> (Cornelius)." Die <em>Identifikation</em> (aus lat. <em>idem</em>, "dasselbe" und <em>facere</em>, "machen") zweier Ausdrücke in der normalen Rede kann aus der Definition oder aus der Analyse folgen.</p>
+
+    <a name="Identität"></a>
+    <h3>Identität</h3>
+    <p>Identität = Identität besteht, wenn durch eine Definition das Definiens mit dem Definiendum gleichgesetzt wurde.</p>
+
+    <a name="Definiens und Definiendum"></a>
+    <h3>Definiens und Definiendum</h3>
+    <p>Definiens und Definiendum sind Bestandteile der Definition. Das Definiens ist das Bestimmende, d. h. der Begriff, der zur Definition eines anderen Begriffs verwendet wird; das, was <em>nach</em> dem Gleichheitszeichen steht. Das Definiendum ist das zu Bestimmende, d. h. der Begriff, dessen Inhalt durch eine Definition bestimmt werden soll; das, was <em>vor</em> dem Gleichheitszeichen steht. Wir führen im folgenden vier wesentliche Definitionsformen ein.</p>
+
+    <a name="Definitionsarten"></a>
+    <h3>Definitionsarten</h3>
+    <p>Definition = (lat. "Begrenzung") Begriffsbestimmung, Darstellung eines Begriffs durch Aufzählung seiner Merkmale, d. h. durch Angabe des Begriffsinhalts.</p>
+    <p>Stipulative Definition = Definition, die den Gebrauch eines Begriffs erstmalig bestimmt. (Wird auch als <em>normative Definition</em> oder <em>Festsetzung</em> bezeichnet)</p>
+    <p>Dabei muß das Definiendum nicht absolut neu sein, es genügt, daß es in dem Kontext, in welchem die Definition stattfindet, neu ist.</p>
+    <p>Lexikalische Definition = Definition, die die gebräuchliche Verwendung eines Begriffs wiedergibt. (Auch: <em>deskriptive Definition</em> oder <em>Feststellung</em>)</p>
+    <p>Dem Definiendum wird keine neue Bedeutung gegeben, sondern es wird nur die Bedeutung wiedergegeben, die zuvor bereits bestand.</p>
+    <p>Nominale Definition = Definition, die den Begriff auf andere Begriffe zurückführt.</p>
+    <p>Reale Definition = Definition, die auf geeignete Gegenstände als Beispiele hinweist, die unter den Begriff fallen.</p>
+
+    <a name="Beispiele"></a>
+    <h3>Beispiele</h3>
+    <p>Wenn ein Wissenschaftler einen neuen technischen Begriff einführt, um einen neu beobachteten Sachverhalt zu beschreiben, dann verwendet er eine <em>stipulative Definition</em>. Stipulative Definitionen sind weder wahr noch falsch, sie sind vielmehr als ein Vorschlag oder Beschluß anzusehen, das Definiendum in der Bedeutung des Definiens zu verwenden, oder als eine Forderung oder ein Befehl, so zu verfahren.</p>
+    <p><em>Lexikalische Definitionen</em> sind hingegen wahr oder falsch, je nachdem ob die gebräuchliche Verwendung korrekt oder inkorrekt wiedergegeben wird.</p>
+    <p>Diese Definition ist <em>wahr</em>:</p>
+    <p>Das Wort "Berg" bedeutet eine größere Masse Erde oder Steine, welche sich zu einer erheblichen Höhe über das umgebende Land erhebt.</p>
+    <p>Diese Definition ist <em>falsch</em>:</p>
+    <p>Das Wort "Berg" bedeutet eine ebene Figur, welche von drei geraden Linien eingeschlossen ist.</p>
+    <p><em>Nominale Definitionen</em> verwenden Begriffe als Definiens. Z. B.: Eine Ammer ist eine Finkengattung mit kurzem Kegelschnabel und langem Schwanz. Hier ist "Ammer" das Definiendum und "ist eine Finkengattung mit kurzem Kegelschnabel und langem Schwanz" das Definiens.</p>
+    <p>Will der Sprecher "Ammer" <em>real definieren</em>, dann verweist er auf die tatsächlich existierende Ammer und nennt das zugehörige Definiendum "Ammer". Der Verweis kann durch einen Fingerzeig geschehen. Auf die Ammer kann auch in Form von Fotos oder Bildern hingewiesen werden.</p>
+
+    <a name="Wirkung"></a>
+    <h3>Wirkung</h3>
+    <p>Die Definition eines Ausdrucks kann in der natürlichen Sprache (im Gegensatz zu formalen Systemen) nicht beliebig gesetzt werden, wenn dieser Ausdruck schon mit Bedeutung besetzt ist. Wenn ich auf die Idee komme, ab jetzt Tische als "Stühle" zu bezeichnen, dann kann ich das zwar tun, aber werde erhebliche Schwierigkeiten in der Kommunikation erleben.</p>
+
+    <a name="Definitionsregeln"></a>
+    <h3>Definitionsregeln</h3>
+    <p>Die Tätigkeit des Definierens ist bestimmten Regeln unterworfen. Nur wer diese Regeln anwendet, kann von sich behaupten, daß er korrekt definiert. Diese Regeln können uns nicht in den Stand versetzen, ohne Nachdenken zu guten Definitionen zu gelangen, doch sind sie hilfreiche Kriterien zur Einschätzung von Definitionen.</p>
+    <ol>
+      <li>Eine Definition sollte die wesentlichen Merkmale angeben.</li>
+      <li>Eine Definition darf nicht zirkulär sein, d. h. das Definiendum darf nicht im Definiens auftreten.</li>
+      <li>Eine Definition darf weder zu weit noch zu eng sein.</li>
+      <li>Eine Definition darf nicht in zweideutiger, dunkler oder bildhafter Sprache ausgedrückt werden.</li>
+      <li>Eine Definition sollte nicht negativer Natur sein, wo sie bejahender Natur sein kann.</li>
+    </ol>
+    <p>Nun noch eine kurze Anmerkung zur rhetorischen Verwendung von "Definition".</p>
+
+    <a name="oratorische Definition"></a>
+    <h3>oratorische Definition</h3>
+    <p>Bisher haben wir die Definition unter der logischen Perspektive betrachtet, d. h. wir haben festgestellt, wie definiert wird, um die Bedeutung von Begriffen klarer zu fassen bzw. zu konsensuieren. Die Definition kann auch als eine rhetorische Figur betrachtet werden - die "oratorische Definition". Sie wird dann als eine rhetorische Figur bezeichnet, wenn sie darauf abzielt, nicht die Bedeutung einer Idee zu erhellen, sondern Aspekte zu betonen, die die persuasive (überzeugende) Wirkung, die gesucht wird, hervorzurufen. Es handelt sich um eine Figur, die sich auf die Auswahl bezieht: die Auswahl von Fakten, die in der Definition herausgestellt werden, ist ungewöhnlich, da das Definiens nicht dem Zweck dient, einem Ausdruck Bedeutung zu verleihen.</p>
+
+    <a name="Regelverstoß"></a>
+    <h3>Regelverstoß</h3>
+    <p>In diesem Lehrheft behandeln wir die Definition im logischen Sinne. Wer gegen die zweite Definitionsregel verstößt, also eine Zirkeldefinition verwendet, der redet tautologisch. "Eine Zirkeldefinition ist eine Tautologie" ist ein Beispiel dafür. In dieser Definition wird nichts erklärt, sondern einfach nur ein anderes Wort verwendet.</p>
+
+    <a name="Tautologie"></a>
+    <h3>Tautologie</h3>
+    <p>Tautologie = (griech.<em> tauto legein</em>, 'dasselbe sagen') Überflüssige (mitunter jedoch notwendige) Verdoppelung einer Aussage.</p>
+    <p>Obwohl sie nichts erklären, sind nicht alle Tautologien sinnlos. In der Rhetorik werden Tautologien und scheinbare Widersprüche genutzt, um ein und demselben Wort eine unterschiedliche Bedeutung zuzusprechen. Wie Sie Widersprüche durch Interpretation zu scheinbaren Widersprüchen auflösen können, so können Sie Tautologien zu scheinbaren Tautologien umformen, indem Sie beiden Ausdrücken eine jeweils unterschiedliche Bedeutung zuschreiben.</p>
+    <p>Auch wenn die Aussagen als Identität erscheinen, wird sich jeder um eine Interpretation dieser Aussage bemühen. Er wird die darin übereinstimmenden Ausdrücke zu differenzieren suchen, um sie für eine Mitteilung hinreichend interessant erscheinen zu lassen.</p>
+    <p>Scheinbare Tautologie = Tautologie, welche zwei gleiche Begriffe für zwei unterschiedliche Gegenstände verwendet.</p>
+    <p>Beispiele für scheinbare Tautologien sind Redewendungen wie: "Geschäft ist Geschäft" oder "Geld ist Geld".</p>
+
+    <a name="Analyse und Definition"></a>
+    <h3>Analyse und Definition</h3>
+    <p>Kommen wir auf eine andere Art der Begriffsklärung zu sprechen: die Analyse. Zu den Tautologien gehören im weiteren Sinne analytische Urteile, denn eine Analyse fügt dem Begriff keine neuen Informationen hinzu. Sie zerteilt nur das Bestehende in feinere Unterschiede.</p>
+    <p>Die Analyse führt mit anderen Mitteln zu den gleichen argumentativen Konsequenzen wie die Definition. Während die Definition zur Vermeidung einer Kontroverse willkürlich oder konventionell gesetzt ist, stellt sich die Analyse als evident und notwendig dar.</p>
+    <p>Analysen, die darauf abzielen, Begriffe in Einzelteile zu zerlegen, und Interpretationen, die darauf abzielen, Texte zu erhellen, ohne etwas Neues hinzuzufügen, sind logische Argumente und erinnern an das Prinzip der Identität. Die logische Analyse kann Redefiguren weichen, die "Häufung" und "Interpretation" genannt werden, wenn sie einem anderen Zweck als dem der Klarstellung dienen und dazu tendieren, das Gefühl der Präsenz zu verstärken.</p>
+    <p>Ein Beispiel für eine Analyse ist die Übersetzung des Satzes "A ist Kind von B" mit dem Satz "A ist Sohn oder Tochter von B". Der letztere Satz fügt dem ersten nichts Neues hinzu, er zählt nur die Möglichkeiten auf, die in dem ersten Satz enthalten sind.</p>
+    <p>"Der König von Frankreich ist kahl" entspricht "Es gibt einzig und allein ein Wesen, das König von Frankreich ist, und dieses Wesen ist kahl." <em>(B. Russell)</em></p>
+    <p>Analyse = (griech. <em>analysis</em>, "Auflösung") Begriffliche bzw. Begriffe ermöglichende Zerlegung einer Einheit in eine Vielheit, eines Ganzen in seine Teile, eines Begriffs in seine Merkmale.</p>

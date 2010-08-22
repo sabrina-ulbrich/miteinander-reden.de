@@ -1,0 +1,43 @@
+---
+  body: |
+    <!-- <h2>Zusammenfassung<\h2> -->
+    <p>Die in diesem Kapitel besprochenen Argumente beziehen sich auf eine logische Konsistenz innerhalb der Sprache - im Gegensatz zu der Relation der praktischen Argumente zwischen Sprache und Handlung, bzw. allgemeiner, Wirklichkeit.</p>
+
+    <a name="Widerspruch"></a>
+    <h3>Widerspruch</h3>
+    <p>Widersprüche und Unvereinbarkeiten sind Fehler, die bei einer gültigen Argumentation nicht auftreten dürfen. Für ein Beweisverfahren, welches sich auf Wahrheit beruft, sind drei Kriterien relevant: Empirie, Konsens, Konsistenz.<br>
+    <ul>
+      <li>Unvereinbarkeit, scheinbare</li>
+      <li>Retorsion</li>
+    </ul>
+
+    <a name="Definition"></a>
+    <h3>Definition</h3>
+    <p>Konsensuierte Definitionen sind grundlegend für eine erfolgreiche Verständigung. Analysen fügen einer Aussage nichts hinzu, sondern zerlegen sie nur in kleinere Elemente und erhöhen damit die Anschaulichkeit. Tautologien können (als scheinbare) zum Nachdenken anregen.<br>
+    <ul>
+      <li>Definition: stipulativ, lexikalisch, nominal, real, oratorisch</li>
+      <li>Tautologie</li>
+      <li>scheinbare Tautologie</li>
+      <li>Analyse</li>
+    </ul>
+
+    <a name="Vergleich"></a>
+    <h3>Vergleich</h3>
+    <p>Ein Vergleich dient der besseren Anschauung. Wenn aus einem Vergleich Regeln abgeleitet werden, die auf eine Verallgemeinerung für ähnliche Fälle zielen, dann lassen sich Vergleiche argumentativ verwenden:<br>
+    <ul>
+      <li>Gerechtigkeitsregel</li>
+      <li>Talionsprinzip</li>
+      <li>Argument der Reziprozität</li>
+    </ul>
+
+    <a name="Transitivität"></a>
+    <h3>Transitivität</h3>
+    <p>Die Argumente der Transitivität, Einschließung und Aufteilung bieten verschiedene Möglichkeiten, um von einer Aussage zur nächsten zu kommen. Verschiedene Argumente bieten verschiedene Möglichkeiten des Übergangs. Daraus eröffnen sich natürlich Möglichkeiten der Gegenargumentation:<br>
+    <ul>
+      <li>Kettenschluß</li>
+      <li>Verfahren nach Etappen</li>
+      <li>Argument der Richtung</li>
+      <li>Dilatorischer Sophismus</li>
+      <li>Argument der Einschließung</li>
+      <li>Argument der Aufteilung</li>
+    </ul>
